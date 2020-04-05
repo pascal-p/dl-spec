@@ -143,3 +143,6 @@ dmypy.json
 *.mp4
 *.mat
 Optimization_methods.ipynb
+Tensorflow_Tutorial.ipynb
+Tensorflow_Tutorial_v1.ipynb
+Tensorflow_Tutorial_v2.ipynb
