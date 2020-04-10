@@ -163,9 +163,15 @@ Face_Recognition_for_the_HappyHouse_v1.ipynb
 Face_Recognition_for_the_HappyHouse_v2.ipynb
 Face_Recognition_for_the_HappyHouse_v3.ipynb
 
-Art_Generation_with_Neural_Style_Transfer_v1.ipynb 
-Art_Generation_with_Neural_Style_Transfer_v2.ipynb  
+Art_Generation_with_Neural_Style_Transfer_v1.ipynb
+Art_Generation_with_Neural_Style_Transfer_v2.ipynb
 Art_Generation_with_Neural_Style_Transfer_v3.ipynb
 Pretrained_Model_LICENSE.txt
 images/
 04\ \-\ CNN/w4/02\ \-\ Neural\ Style\ Transfer/output/*.png
+
+
+Building_a_RNN_Step_by_Step_v3.ipynb
+Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb
+05\ \-\ RNN/w1/01\ \-\ Buillding\ a\ RNN\ Step\ by\ Step/*.txt
+05\ \-\ RNN/w1/01\ \-\ Buillding\ a\ RNN\ Step\ by\ Step/data/
