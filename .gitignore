@@ -184,3 +184,9 @@ glove.6B.50d.txt
 Emojify_v2a-RO.ipynb
 Emojify_v2.ipynb
 Neural_machine_translation_with_attention_v4.ipynb
+Trigger_word_detection_v1.ipynb
+Trigger_word_detection_v1a-RO.ipynb
+*.wav
+XY_dev
+XY_train
+raw_data
